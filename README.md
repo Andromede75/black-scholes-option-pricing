@@ -55,7 +55,7 @@ Black-Scholes Put Option Price: 5.57
 
 ### Graphique généré
 
-![Exemple de graphique de la stratégie](exemple_graphique.png)
+![Exemple de graphique de la stratégie](exemple_output_graph.png)
 
 ## Explications techniques
 
