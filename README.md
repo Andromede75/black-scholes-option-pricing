@@ -89,7 +89,7 @@ P = K e^{-rT} N(-d_2) - S N(-d_1)
 
 ## Auteurs
 
-- **Mathieu Derville** – [GitHub](https://github.com/Andromede75)
+- **Andromede75** – [GitHub](https://github.com/Andromede75)
 
 ## Licence
 
